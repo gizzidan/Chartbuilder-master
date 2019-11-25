@@ -18,7 +18,6 @@ var ChartConfig = require("../ChartConfig");
 * @property {Nem|number} afterXYRight - Horiz distance btwn two chart grids that are next to each other
 * @property {Nem|number} columnExtraPadding - Extra padding given if a chart grid XY has columns
 * @property {Nem|number} bottomPaddingWithoutFooter - Bottom padding if footer is not drawn
-* @property {Nem|number} bottomPaddingWithoutFooter - Bottom padding if footer is not drawn
 * @property {object} xy - Copy of `xy_config.display`, used in XY chart grids
 * @property {object} margin - Distances btwn outer chart elements and container
 * @property {object} padding - Distances btwn inner chart elements and container
@@ -125,7 +124,7 @@ var defaultProps = {
 		chartType: "chartgrid",
 		title: "",
 		source: "",
-		credit: "The Hum",
+		credit: "The Hum | thehum.co",
 		size: "auto"
 	}
 };

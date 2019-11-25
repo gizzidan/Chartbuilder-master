@@ -36,8 +36,8 @@ var display = {
 	labelXMargin: "0.6em",
 	labelTextMargin: "0.3em",
 	labelRowHeight: "1.2em",
-	afterTitle: "1.4em",
-	afterLegend: "1em",
+	afterTitle: "1.8em",
+	afterLegend: "1.1em",
 	blockerRectOffset: "0.2em",
 	lineMarkThreshold: 10, // render marks (dots) on lines if data < N
 	columnOuterPadding: 0.01, // % of width to pad for columns
@@ -62,7 +62,7 @@ var display = {
 	padding: {
 		top: 0,
 		right: 0,
-		bottom: "3.5em",
+		bottom: "3.6em",
 		left: 0
 	}
 };
@@ -145,7 +145,7 @@ var defaultProps = {
 		chartType: 'xy',
 		title: "",
 		source: "",
-		credit: "The Hum",
+		credit: "The Hum | thehum.co",
 		size: "auto"
 	}
 };

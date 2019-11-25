@@ -1,4 +1,4 @@
-$em_size = 20px
+$em_size = 22px
 $em_size_small = 14px
 $em_size_large = 36px
 
@@ -44,8 +44,10 @@ svg
 	font-size $em_size
 
 	tspan
-		font-family $font-serif
-		font-weight bold
+		
+		
+		
+		
 		&.em
 			font-style italic
 
@@ -57,11 +59,10 @@ svg
 			font-style italic
 
 	&.svg-text-credit
-		
+		font-family $font-sans
 		fill $color-chart-meta
 		text-anchor start
 	&.svg-text-source
-		
 		fill $color-chart-meta
 		&.left
 			text-anchor start
@@ -69,7 +70,9 @@ svg
 			text-anchor end
 	&.svg-text-title
 		fill $color-body-text
-
+		font-family $font-serif
+		font-weight bold
+	
 .medium .svg-text
 	font-size $em_size
 	&.svg-text-credit
