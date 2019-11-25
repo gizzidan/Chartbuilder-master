@@ -145,7 +145,7 @@ var defaultProps = {
 		chartType: 'xy',
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "The Hum",
 		size: "auto"
 	}
 };
