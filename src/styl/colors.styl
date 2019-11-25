@@ -1,0 +1,80 @@
+// Colors
+
+$color-bg = #fff
+$color-body-text = #131516
+$color-chart-gridline = #e1e0e7
+$color-chart-meta = #d3d2dc
+$color-chart-axis-text = #403d4d
+$color-chart-title-text = #131516
+$color-chart-zeroline = #333
+
+$color-editor-border = #e2e2e2
+$color-editor-fill = #F1F1F1
+$color-editor-disabled = #BEBEBE
+$color-editor-text = #333333
+$color-editor-placeholder = #CACACA
+
+$chart-colors = \
+	#4524EA \
+	#fdae61 \
+	#cf205a \
+	#abd9e9 \
+	#ec5739 \
+	#a392f5 \
+	#1FCB92 \
+	#131516 \
+	#a19db3 \
+	#6d6983 \
+	#d3d2dc
+
+for c, i in $chart-colors
+	[data-color-index=\"{i}\"]
+		path
+			stroke (c)
+		rect
+			fill (c)
+		circle
+			stroke (c)
+			stroke-width 2px
+			fill (c)
+
+	.color-index-{i}
+		fill (c)
+
+	rect.color-index-{i}
+		fill (c)
+
+	path.color-index-{i}
+		stroke (c)
+
+	circle.color-index-{i}
+		fill (c)
+
+	rect[data-color-index=\"{i}\"]
+		fill (c)
+
+	text[data-color-index=\"{i}\"]
+		fill (c)
+
+	g.axis.color-index-{i}
+		text
+			fill (c)
+
+	.cb-colorpicker-color-{i}
+		background-color (c)
+
+	.series-label-{i}
+		color (c)
+
+	.series-label-input-{i}
+		border-bottom 2px solid (c)
+		&:hover, &:focus
+			border none
+			border-bottom 2px solid (c)
+		input
+			color (c)
+
+	.cb-toggle.toggled.toggle-{i}
+		.cb-toggle-container
+			background-color (c)
+
