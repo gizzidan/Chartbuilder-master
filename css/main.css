@@ -1030,212 +1030,212 @@ g.axis.color-index-0 text {
   background-color: #4524ea;
 }
 [data-color-index="1"] path {
-  stroke: #fdae61;
+  stroke: #cf205a;
 }
 [data-color-index="1"] rect {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 [data-color-index="1"] circle {
-  stroke: #fdae61;
+  stroke: #cf205a;
   stroke-width: 2px;
-  fill: #fdae61;
+  fill: #cf205a;
 }
 .color-index-1 {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 rect.color-index-1 {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 path.color-index-1 {
-  stroke: #fdae61;
+  stroke: #cf205a;
 }
 circle.color-index-1 {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 rect[data-color-index="1"] {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 text[data-color-index="1"] {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 g.axis.color-index-1 text {
-  fill: #fdae61;
+  fill: #cf205a;
 }
 .cb-colorpicker-color-1 {
-  background-color: #fdae61;
+  background-color: #cf205a;
 }
 .series-label-1 {
-  color: #fdae61;
+  color: #cf205a;
 }
 .series-label-input-1 {
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid #cf205a;
 }
 .series-label-input-1:hover,
 .series-label-input-1:focus {
   border: none;
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid #cf205a;
 }
 .series-label-input-1 input {
-  color: #fdae61;
-}
-.cb-toggle.toggled.toggle-1 .cb-toggle-container {
-  background-color: #fdae61;
-}
-[data-color-index="2"] path {
-  stroke: #cf205a;
-}
-[data-color-index="2"] rect {
-  fill: #cf205a;
-}
-[data-color-index="2"] circle {
-  stroke: #cf205a;
-  stroke-width: 2px;
-  fill: #cf205a;
-}
-.color-index-2 {
-  fill: #cf205a;
-}
-rect.color-index-2 {
-  fill: #cf205a;
-}
-path.color-index-2 {
-  stroke: #cf205a;
-}
-circle.color-index-2 {
-  fill: #cf205a;
-}
-rect[data-color-index="2"] {
-  fill: #cf205a;
-}
-text[data-color-index="2"] {
-  fill: #cf205a;
-}
-g.axis.color-index-2 text {
-  fill: #cf205a;
-}
-.cb-colorpicker-color-2 {
-  background-color: #cf205a;
-}
-.series-label-2 {
   color: #cf205a;
 }
+.cb-toggle.toggled.toggle-1 .cb-toggle-container {
+  background-color: #cf205a;
+}
+[data-color-index="2"] path {
+  stroke: #fdae61;
+}
+[data-color-index="2"] rect {
+  fill: #fdae61;
+}
+[data-color-index="2"] circle {
+  stroke: #fdae61;
+  stroke-width: 2px;
+  fill: #fdae61;
+}
+.color-index-2 {
+  fill: #fdae61;
+}
+rect.color-index-2 {
+  fill: #fdae61;
+}
+path.color-index-2 {
+  stroke: #fdae61;
+}
+circle.color-index-2 {
+  fill: #fdae61;
+}
+rect[data-color-index="2"] {
+  fill: #fdae61;
+}
+text[data-color-index="2"] {
+  fill: #fdae61;
+}
+g.axis.color-index-2 text {
+  fill: #fdae61;
+}
+.cb-colorpicker-color-2 {
+  background-color: #fdae61;
+}
+.series-label-2 {
+  color: #fdae61;
+}
 .series-label-input-2 {
-  border-bottom: 2px solid #cf205a;
+  border-bottom: 2px solid #fdae61;
 }
 .series-label-input-2:hover,
 .series-label-input-2:focus {
   border: none;
-  border-bottom: 2px solid #cf205a;
+  border-bottom: 2px solid #fdae61;
 }
 .series-label-input-2 input {
-  color: #cf205a;
+  color: #fdae61;
 }
 .cb-toggle.toggled.toggle-2 .cb-toggle-container {
-  background-color: #cf205a;
+  background-color: #fdae61;
 }
 [data-color-index="3"] path {
-  stroke: #abd9e9;
+  stroke: #ec5739;
 }
 [data-color-index="3"] rect {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 [data-color-index="3"] circle {
-  stroke: #abd9e9;
+  stroke: #ec5739;
   stroke-width: 2px;
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 .color-index-3 {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 rect.color-index-3 {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 path.color-index-3 {
-  stroke: #abd9e9;
+  stroke: #ec5739;
 }
 circle.color-index-3 {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 rect[data-color-index="3"] {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 text[data-color-index="3"] {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 g.axis.color-index-3 text {
-  fill: #abd9e9;
+  fill: #ec5739;
 }
 .cb-colorpicker-color-3 {
-  background-color: #abd9e9;
+  background-color: #ec5739;
 }
 .series-label-3 {
-  color: #abd9e9;
+  color: #ec5739;
 }
 .series-label-input-3 {
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid #ec5739;
 }
 .series-label-input-3:hover,
 .series-label-input-3:focus {
   border: none;
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid #ec5739;
 }
 .series-label-input-3 input {
-  color: #abd9e9;
-}
-.cb-toggle.toggled.toggle-3 .cb-toggle-container {
-  background-color: #abd9e9;
-}
-[data-color-index="4"] path {
-  stroke: #ec5739;
-}
-[data-color-index="4"] rect {
-  fill: #ec5739;
-}
-[data-color-index="4"] circle {
-  stroke: #ec5739;
-  stroke-width: 2px;
-  fill: #ec5739;
-}
-.color-index-4 {
-  fill: #ec5739;
-}
-rect.color-index-4 {
-  fill: #ec5739;
-}
-path.color-index-4 {
-  stroke: #ec5739;
-}
-circle.color-index-4 {
-  fill: #ec5739;
-}
-rect[data-color-index="4"] {
-  fill: #ec5739;
-}
-text[data-color-index="4"] {
-  fill: #ec5739;
-}
-g.axis.color-index-4 text {
-  fill: #ec5739;
-}
-.cb-colorpicker-color-4 {
-  background-color: #ec5739;
-}
-.series-label-4 {
   color: #ec5739;
 }
+.cb-toggle.toggled.toggle-3 .cb-toggle-container {
+  background-color: #ec5739;
+}
+[data-color-index="4"] path {
+  stroke: #abd9e9;
+}
+[data-color-index="4"] rect {
+  fill: #abd9e9;
+}
+[data-color-index="4"] circle {
+  stroke: #abd9e9;
+  stroke-width: 2px;
+  fill: #abd9e9;
+}
+.color-index-4 {
+  fill: #abd9e9;
+}
+rect.color-index-4 {
+  fill: #abd9e9;
+}
+path.color-index-4 {
+  stroke: #abd9e9;
+}
+circle.color-index-4 {
+  fill: #abd9e9;
+}
+rect[data-color-index="4"] {
+  fill: #abd9e9;
+}
+text[data-color-index="4"] {
+  fill: #abd9e9;
+}
+g.axis.color-index-4 text {
+  fill: #abd9e9;
+}
+.cb-colorpicker-color-4 {
+  background-color: #abd9e9;
+}
+.series-label-4 {
+  color: #abd9e9;
+}
 .series-label-input-4 {
-  border-bottom: 2px solid #ec5739;
+  border-bottom: 2px solid #abd9e9;
 }
 .series-label-input-4:hover,
 .series-label-input-4:focus {
   border: none;
-  border-bottom: 2px solid #ec5739;
+  border-bottom: 2px solid #abd9e9;
 }
 .series-label-input-4 input {
-  color: #ec5739;
+  color: #abd9e9;
 }
 .cb-toggle.toggled.toggle-4 .cb-toggle-container {
-  background-color: #ec5739;
+  background-color: #abd9e9;
 }
 [data-color-index="5"] path {
   stroke: #a392f5;
@@ -1842,7 +1842,7 @@ svg .svg-background {
   width: 100%;
 }
 .em-size {
-  font-size: 20px;
+  font-size: 22px;
   position: absolute;
   visibility: hidden;
   top: 0;
@@ -1856,11 +1856,7 @@ svg .svg-background {
   font-size: 14px;
 }
 .svg-text {
-  font-size: 20px;
-}
-.svg-text tspan {
-  font-family: 'Noe Text', serif;
-  font-weight: bold;
+  font-size: 22px;
 }
 .svg-text tspan.em {
   font-style: italic;
@@ -1874,11 +1870,12 @@ svg .svg-background {
   font-style: italic;
 }
 .svg-text.svg-text-credit {
-  fill: #d3d2dc;
+  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
+  fill: #c4c2d0;
   text-anchor: start;
 }
 .svg-text.svg-text-source {
-  fill: #d3d2dc;
+  fill: #c4c2d0;
 }
 .svg-text.svg-text-source.left {
   text-anchor: start;
@@ -1888,31 +1885,33 @@ svg .svg-background {
 }
 .svg-text.svg-text-title {
   fill: #131516;
+  font-family: 'Noe Text', serif;
+  font-weight: bold;
 }
 .medium .svg-text {
-  font-size: 20px;
+  font-size: 22px;
 }
 .medium .svg-text.svg-text-credit {
-  font-size: 12px;
+  font-size: 13.2px;
 }
 .medium .svg-text.svg-text-source {
-  font-size: 12px;
+  font-size: 13.2px;
 }
 .medium .svg-text.svg-text-title {
-  font-size: 20px;
+  font-size: 22px;
 }
 .small .svg-text {
   font-size: 14px;
 }
 .small .svg-text.svg-text-credit {
-  font-size: 10px;
+  font-size: 11px;
 }
 .small .svg-text.svg-text-source {
-  font-size: 10px;
+  font-size: 11px;
 }
 .small .svg-text.svg-text-pipe text {
   dominant-baseline: central;
-  font-size: 12px;
+  font-size: 13.2px;
 }
 .small .svg-text.svg-text-title {
   font-size: 14px;
@@ -1975,13 +1974,13 @@ svg .svg-background {
   fill: #fff;
 }
 .series-label {
-  font-size: 20px;
+  font-size: 22px;
 }
 .small .series-label {
   font-size: 14px;
 }
 .svg-source-pipe {
-  stroke: #d3d2dc;
+  stroke: #c4c2d0;
   fill: none;
   stroke-width: 0.8px;
 }
@@ -1991,7 +1990,7 @@ svg .svg-background {
   stroke: #000;
 }
 .cb-credit-logo {
-  fill: #d3d2dc;
+  fill: #c4c2d0;
 }
 .chartbuilder-editor {
   margin-left: 680px;
