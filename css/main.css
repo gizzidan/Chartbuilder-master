@@ -1030,56 +1030,56 @@ g.axis.color-index-0 text {
   background-color: #4524ea;
 }
 [data-color-index="1"] path {
-  stroke: #ff4d79;
+  stroke: #e10e82;
 }
 [data-color-index="1"] rect {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 [data-color-index="1"] circle {
-  stroke: #ff4d79;
+  stroke: #e10e82;
   stroke-width: 2px;
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 .color-index-1 {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 rect.color-index-1 {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 path.color-index-1 {
-  stroke: #ff4d79;
+  stroke: #e10e82;
 }
 circle.color-index-1 {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 rect[data-color-index="1"] {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 text[data-color-index="1"] {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 g.axis.color-index-1 text {
-  fill: #ff4d79;
+  fill: #e10e82;
 }
 .cb-colorpicker-color-1 {
-  background-color: #ff4d79;
+  background-color: #e10e82;
 }
 .series-label-1 {
-  color: #ff4d79;
+  color: #e10e82;
 }
 .series-label-input-1 {
-  border-bottom: 2px solid #ff4d79;
+  border-bottom: 2px solid #e10e82;
 }
 .series-label-input-1:hover,
 .series-label-input-1:focus {
   border: none;
-  border-bottom: 2px solid #ff4d79;
+  border-bottom: 2px solid #e10e82;
 }
 .series-label-input-1 input {
-  color: #ff4d79;
+  color: #e10e82;
 }
 .cb-toggle.toggled.toggle-1 .cb-toggle-container {
-  background-color: #ff4d79;
+  background-color: #e10e82;
 }
 [data-color-index="2"] path {
   stroke: #fdae61;
