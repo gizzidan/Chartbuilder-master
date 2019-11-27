@@ -1082,56 +1082,56 @@ g.axis.color-index-1 text {
   background-color: #e10e82;
 }
 [data-color-index="2"] path {
-  stroke: #fdae61;
+  stroke: #1fcb92;
 }
 [data-color-index="2"] rect {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 [data-color-index="2"] circle {
-  stroke: #fdae61;
+  stroke: #1fcb92;
   stroke-width: 2px;
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 .color-index-2 {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 rect.color-index-2 {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 path.color-index-2 {
-  stroke: #fdae61;
+  stroke: #1fcb92;
 }
 circle.color-index-2 {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 rect[data-color-index="2"] {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 text[data-color-index="2"] {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 g.axis.color-index-2 text {
-  fill: #fdae61;
+  fill: #1fcb92;
 }
 .cb-colorpicker-color-2 {
-  background-color: #fdae61;
+  background-color: #1fcb92;
 }
 .series-label-2 {
-  color: #fdae61;
+  color: #1fcb92;
 }
 .series-label-input-2 {
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid #1fcb92;
 }
 .series-label-input-2:hover,
 .series-label-input-2:focus {
   border: none;
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid #1fcb92;
 }
 .series-label-input-2 input {
-  color: #fdae61;
+  color: #1fcb92;
 }
 .cb-toggle.toggled.toggle-2 .cb-toggle-container {
-  background-color: #fdae61;
+  background-color: #1fcb92;
 }
 [data-color-index="3"] path {
   stroke: #ec5739;
@@ -1186,160 +1186,160 @@ g.axis.color-index-3 text {
   background-color: #ec5739;
 }
 [data-color-index="4"] path {
-  stroke: #abd9e9;
+  stroke: #634806;
 }
 [data-color-index="4"] rect {
-  fill: #abd9e9;
+  fill: #634806;
 }
 [data-color-index="4"] circle {
-  stroke: #abd9e9;
+  stroke: #634806;
   stroke-width: 2px;
-  fill: #abd9e9;
+  fill: #634806;
 }
 .color-index-4 {
-  fill: #abd9e9;
+  fill: #634806;
 }
 rect.color-index-4 {
-  fill: #abd9e9;
+  fill: #634806;
 }
 path.color-index-4 {
-  stroke: #abd9e9;
+  stroke: #634806;
 }
 circle.color-index-4 {
-  fill: #abd9e9;
+  fill: #634806;
 }
 rect[data-color-index="4"] {
-  fill: #abd9e9;
+  fill: #634806;
 }
 text[data-color-index="4"] {
-  fill: #abd9e9;
+  fill: #634806;
 }
 g.axis.color-index-4 text {
-  fill: #abd9e9;
+  fill: #634806;
 }
 .cb-colorpicker-color-4 {
-  background-color: #abd9e9;
+  background-color: #634806;
 }
 .series-label-4 {
-  color: #abd9e9;
+  color: #634806;
 }
 .series-label-input-4 {
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid #634806;
 }
 .series-label-input-4:hover,
 .series-label-input-4:focus {
   border: none;
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid #634806;
 }
 .series-label-input-4 input {
-  color: #abd9e9;
+  color: #634806;
 }
 .cb-toggle.toggled.toggle-4 .cb-toggle-container {
-  background-color: #abd9e9;
+  background-color: #634806;
 }
 [data-color-index="5"] path {
-  stroke: #a392f5;
+  stroke: #abd9e9;
 }
 [data-color-index="5"] rect {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 [data-color-index="5"] circle {
-  stroke: #a392f5;
+  stroke: #abd9e9;
   stroke-width: 2px;
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 .color-index-5 {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 rect.color-index-5 {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 path.color-index-5 {
-  stroke: #a392f5;
+  stroke: #abd9e9;
 }
 circle.color-index-5 {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 rect[data-color-index="5"] {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 text[data-color-index="5"] {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 g.axis.color-index-5 text {
-  fill: #a392f5;
+  fill: #abd9e9;
 }
 .cb-colorpicker-color-5 {
-  background-color: #a392f5;
+  background-color: #abd9e9;
 }
 .series-label-5 {
-  color: #a392f5;
+  color: #abd9e9;
 }
 .series-label-input-5 {
-  border-bottom: 2px solid #a392f5;
+  border-bottom: 2px solid #abd9e9;
 }
 .series-label-input-5:hover,
 .series-label-input-5:focus {
   border: none;
-  border-bottom: 2px solid #a392f5;
+  border-bottom: 2px solid #abd9e9;
 }
 .series-label-input-5 input {
-  color: #a392f5;
+  color: #abd9e9;
 }
 .cb-toggle.toggled.toggle-5 .cb-toggle-container {
-  background-color: #a392f5;
+  background-color: #abd9e9;
 }
 [data-color-index="6"] path {
-  stroke: #1fcb92;
+  stroke: #a392f5;
 }
 [data-color-index="6"] rect {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 [data-color-index="6"] circle {
-  stroke: #1fcb92;
+  stroke: #a392f5;
   stroke-width: 2px;
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 .color-index-6 {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 rect.color-index-6 {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 path.color-index-6 {
-  stroke: #1fcb92;
+  stroke: #a392f5;
 }
 circle.color-index-6 {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 rect[data-color-index="6"] {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 text[data-color-index="6"] {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 g.axis.color-index-6 text {
-  fill: #1fcb92;
+  fill: #a392f5;
 }
 .cb-colorpicker-color-6 {
-  background-color: #1fcb92;
+  background-color: #a392f5;
 }
 .series-label-6 {
-  color: #1fcb92;
+  color: #a392f5;
 }
 .series-label-input-6 {
-  border-bottom: 2px solid #1fcb92;
+  border-bottom: 2px solid #a392f5;
 }
 .series-label-input-6:hover,
 .series-label-input-6:focus {
   border: none;
-  border-bottom: 2px solid #1fcb92;
+  border-bottom: 2px solid #a392f5;
 }
 .series-label-input-6 input {
-  color: #1fcb92;
+  color: #a392f5;
 }
 .cb-toggle.toggled.toggle-6 .cb-toggle-container {
-  background-color: #1fcb92;
+  background-color: #a392f5;
 }
 [data-color-index="7"] path {
   stroke: #131516;
