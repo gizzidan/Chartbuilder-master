@@ -33,7 +33,7 @@ var now = new Date();
 
 var display = {
 	labelRectSize: "0.6em",
-	labelXMargin: "0.6em",
+	labelXMargin: "0.7em",
 	labelTextMargin: "0.3em",
 	labelRowHeight: "1.2em",
 	afterTitle: "1.8em",
@@ -55,14 +55,14 @@ var display = {
 	},
 	margin: {
 		top: "1.3em",
-		right: "1em",
+		right: "0.6em",
 		bottom: "0.25em",
-		left: "1em"
+		left: "0.6em"
 	},
 	padding: {
 		top: 0,
 		right: 0,
-		bottom: "3.6em",
+		bottom: "3.7em",
 		left: 0
 	}
 };
