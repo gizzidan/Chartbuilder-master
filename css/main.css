@@ -1875,6 +1875,7 @@ svg .svg-background {
   text-anchor: start;
 }
 .svg-text.svg-text-source {
+  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
   fill: #c4c2d0;
 }
 .svg-text.svg-text-source.left {
