@@ -18,8 +18,8 @@ var chart_style = {
 	overtick_top: "0.8em",
 	overtick_bottom: "0.8em",
 	fontFamilies: { // necessary for calculating text width before render
-		axes: "F Grotesk Thin",
-		labels: "F Grotesk Thin"
+		axes: "Suisse Intl Thin",
+		labels: "Suisse Intl Thin"
 	},
 	fontSizes: {
 		large: "1.2em",

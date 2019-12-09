@@ -581,7 +581,7 @@ span.step-number {
   margin-right: 0.25em;
 }
 .editor-options {
-  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
   margin: 30px 0;
   display: block;
   width: 100%;
@@ -615,7 +615,7 @@ span.step-number {
   background-color: #f1f1f1;
   width: 100%;
   text-align: center;
-  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
 }
 .data-input .file-drop p {
   font-size: 2em;
@@ -809,7 +809,7 @@ span.step-number {
 }
 .editor-label {
   font-size: 18px;
-  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
 }
 .load-localstorage {
   display: none;
@@ -897,7 +897,7 @@ span.step-number {
   margin-bottom: 2em;
 }
 .mobile-overrides> h2:first-child {
-  font-family: "F Grotesk Bold", Arial, sans-serif;
+  font-family: "Suisse Intl Bold", Arial, sans-serif;
   margin-bottom: 1em;
 }
 .mobile-overrides .scale-options {
@@ -946,19 +946,20 @@ svg .svg-background {
   font-style: italic;
 }
 .svg-text tspan.strong {
-  font-family: "F Grotesk Bold", Arial, sans-serif;
+  font-family: "Suisse Intl Bold", Arial, sans-serif;
 }
 .svg-text tspan.strong .em,
 .svg-text tspan.em .strong {
-  font-family: "F Grotesk Bold", Arial, sans-serif;
+  font-family: "Suisse Intl Bold", Arial, sans-serif;
   font-style: italic;
 }
 .svg-text.svg-text-credit {
-  font-family: 'F Grotesk', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
   fill: #c4c2d0;
   text-anchor: start;
 }
 .svg-text.svg-text-source {
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
   fill: #c4c2d0;
 }
 .svg-text.svg-text-source.left {
