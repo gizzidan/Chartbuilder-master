@@ -8,7 +8,6 @@ build
 .lvimrc
 npm-debug.log
 bower_components/
-src/fonts
 
 config.json
 .awspublish-*
