@@ -1024,6 +1024,9 @@ svg .svg-background {
 .small .series-line-path {
   stroke-width: 2px;
 }
+.axis {
+  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+}
 .axis text.tick {
   fill: #403d4d;
   shape-rendering: crispEdges;
