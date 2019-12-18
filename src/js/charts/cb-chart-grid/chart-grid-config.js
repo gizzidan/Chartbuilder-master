@@ -24,7 +24,7 @@ var ChartConfig = require("../ChartConfig");
 */
 var display = {
 	afterTitle: "2.3em", // distance between top of title and top of legend or chart
-	afterLegend: "0.9em", // distance between top of legend and top of chart
+	afterLegend: "0.8em", // distance between top of legend and top of chart
 	blockerRectOffset: "0.25em", // distance between text and background blocker rect
 	barHeight: "1.9em", // height of each bars
 	columnExtraPadding: "0.5em",
