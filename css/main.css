@@ -1936,6 +1936,7 @@ svg .svg-background {
   fill: #fff;
 }
 .series-label {
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
   font-size: 22px;
 }
 .small .series-label {
