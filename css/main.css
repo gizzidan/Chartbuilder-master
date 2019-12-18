@@ -1602,7 +1602,7 @@ h1,
 h2,
 h4,
 h5 {
-  font-family: "Suisse Intl Bold", Arial, sans-serif;
+  font-family: 'Suisse Intl Bold', Arial, sans-serif;
   color: #131516;
 }
 h1 {
@@ -1820,11 +1820,11 @@ svg .svg-background {
   font-style: italic;
 }
 .svg-text tspan.strong {
-  font-family: "Suisse Intl Bold", Arial, sans-serif;
+  font-family: 'Suisse Intl Bold', Arial, sans-serif;
 }
 .svg-text tspan.strong .em,
 .svg-text tspan.em .strong {
-  font-family: "Suisse Intl Bold", Arial, sans-serif;
+  font-family: 'Suisse Intl Bold', Arial, sans-serif;
   font-style: italic;
 }
 .svg-text.svg-text-credit {
@@ -2314,7 +2314,7 @@ svg .svg-background {
   margin-bottom: 2em;
 }
 .chartbuilder-editor .mobile-overrides> h2:first-child {
-  font-family: "Suisse Intl Bold", Arial, sans-serif;
+  font-family: 'Suisse Intl Bold', Arial, sans-serif;
   margin-bottom: 1em;
 }
 .chartbuilder-editor .mobile-overrides .scale-options {
