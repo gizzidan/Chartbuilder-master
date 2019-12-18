@@ -103,56 +103,56 @@ g.axis.color-index-1 text {
   background-color: #e10e82;
 }
 [data-color-index="2"] path {
-  stroke: #1fcb92;
+  stroke: #007a4b;
 }
 [data-color-index="2"] rect {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 [data-color-index="2"] circle {
-  stroke: #1fcb92;
+  stroke: #007a4b;
   stroke-width: 2px;
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 .color-index-2 {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 rect.color-index-2 {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 path.color-index-2 {
-  stroke: #1fcb92;
+  stroke: #007a4b;
 }
 circle.color-index-2 {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 rect[data-color-index="2"] {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 text[data-color-index="2"] {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 g.axis.color-index-2 text {
-  fill: #1fcb92;
+  fill: #007a4b;
 }
 .cb-colorpicker-color-2 {
-  background-color: #1fcb92;
+  background-color: #007a4b;
 }
 .series-label-2 {
-  color: #1fcb92;
+  color: #007a4b;
 }
 .series-label-input-2 {
-  border-bottom: 2px solid #1fcb92;
+  border-bottom: 2px solid #007a4b;
 }
 .series-label-input-2:hover,
 .series-label-input-2:focus {
   border: none;
-  border-bottom: 2px solid #1fcb92;
+  border-bottom: 2px solid #007a4b;
 }
 .series-label-input-2 input {
-  color: #1fcb92;
+  color: #007a4b;
 }
 .cb-toggle.toggled.toggle-2 .cb-toggle-container {
-  background-color: #1fcb92;
+  background-color: #007a4b;
 }
 [data-color-index="3"] path {
   stroke: #ec5739;
@@ -581,7 +581,7 @@ span.step-number {
   margin-right: 0.25em;
 }
 .editor-options {
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
   margin: 30px 0;
   display: block;
   width: 100%;
@@ -615,7 +615,7 @@ span.step-number {
   background-color: #f1f1f1;
   width: 100%;
   text-align: center;
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
 }
 .data-input .file-drop p {
   font-size: 2em;
@@ -809,7 +809,7 @@ span.step-number {
 }
 .editor-label {
   font-size: 18px;
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
 }
 .load-localstorage {
   display: none;
@@ -954,12 +954,12 @@ svg .svg-background {
   font-style: italic;
 }
 .svg-text.svg-text-credit {
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
   fill: #c4c2d0;
   text-anchor: start;
 }
 .svg-text.svg-text-source {
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
   fill: #c4c2d0;
 }
 .svg-text.svg-text-source.left {
@@ -1025,7 +1025,7 @@ svg .svg-background {
   stroke-width: 2px;
 }
 .axis {
-  font-family: 'Suisse Intl', Arial, Helvetica, sans-serif;
+  font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
 }
 .axis text.tick {
   fill: #403d4d;
