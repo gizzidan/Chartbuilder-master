@@ -1829,12 +1829,12 @@ svg .svg-background {
 }
 .svg-text.svg-text-credit {
   font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
-  fill: #c4c2d0;
+  fill: #b4b1c2;
   text-anchor: start;
 }
 .svg-text.svg-text-source {
   font-family: 'Suisse Intl Regular', Arial, Helvetica, sans-serif;
-  fill: #c4c2d0;
+  fill: #b4b1c2;
 }
 .svg-text.svg-text-source.left {
   text-anchor: start;
@@ -1943,7 +1943,7 @@ svg .svg-background {
   font-size: 14px;
 }
 .svg-source-pipe {
-  stroke: #c4c2d0;
+  stroke: #b4b1c2;
   fill: none;
   stroke-width: 0.8px;
 }
@@ -1953,7 +1953,7 @@ svg .svg-background {
   stroke: #000;
 }
 .cb-credit-logo {
-  fill: #c4c2d0;
+  fill: #b4b1c2;
 }
 .chartbuilder-editor {
   margin-left: 680px;
